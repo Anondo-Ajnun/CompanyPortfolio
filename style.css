@@ -1,0 +1,333 @@
+/*-------------------------- header section start -------------------------------*/
+.header p{
+    font-size: 13px;
+}
+.header .col-md-2 i{
+    font-size: larger;
+}
+.header .nav-bar-top{
+    background-color: #f0f0f0;
+}
+
+/* ------------------------------------nav section start--------------------------------------- */
+.nav-bar{
+    background-color: #ffffff;
+    
+}
+
+.nav-bar .col-md-12{
+    background-color: #ffffff;
+}
+
+
+.nav-bar .navbar-brand{
+    font-size: 25px;
+    text-transform: uppercase;
+}
+/*------------------------------ oiur service start----------------------------*/
+
+.our-services-home h1{
+    font-size: 36px;
+    font-weight: bold;
+
+}
+.our-services-home p{
+    font-size: 21px;
+}
+.our-services-home h3{
+    font-size: 24px;
+    font-weight: bold;
+}
+.our-services-home .txt{
+    font-size: 14px;
+}
+/* -----------------------------chat box section start-----------------------------*/
+.chat-box{
+    background-color: #01c0e1;
+}
+.chat-box p{
+    font-size: 36px;
+    color: white;
+}
+/*---------------------------- our latest work section start---------------------*/
+.our-latest-work h1{
+    font-size: 36px;
+    font-weight: bold;
+}
+.our-latest-work p{
+    font-size: 21px;
+}
+/*------------------------ counter section start--------------------------- */
+.container-up-section i{
+    font-size: 42px;
+    margin-bottom: 3px;
+}
+.container-up-section h2{
+    font-size: 60px;
+    padding-bottom: 4px;
+}
+.container-up-section p{
+    font-size: 18px;
+    font-weight: bold;
+}
+.bg-1{
+    background-color: #16A0B8;
+}
+.bg-2{
+    background-color: #18aac4;
+}
+.bg-3{
+    background-color: #19b4cf;
+}
+.bg-4{
+    background-color: #1bbeda;
+}
+/* counter section end */
+/* ----------------------------------our team section start -------------------------*/
+.our-team h3{
+    font-size: 36px;
+    font-weight: bold;
+}
+.our-team p{
+    font-size: 21px;
+}
+.our-team h5{
+    font-size: 21px;
+    font-weight: bold;
+}
+.our-team .ts{
+    font-size: 14px;
+}
+.our-team img{
+    height: 250px;
+}
+/* ------------------------------our team section start -----------------------*/
+/* our clients section start */
+.our-clients h3{
+    font-size: 36px;
+    font-weight: bold;
+}
+.our-clients p{
+    font-size: 21px;
+}
+/* our clients section end */
+/*---------------------- our latest news section start ---------------------------*/
+.latest-news h3{
+    font-size: 36px;
+    font-weight: bold;
+}
+.latest-news p{
+    font-size: 21px;
+}
+/* our latest news section end */
+/*--------------------------------- footer top section start--------------------------------- */
+/* about section start */
+.about-recent-catagories{
+    height: 320px;
+    background-color: #3c3c3c;
+}
+.about-recent-catagories p{
+    font-size: 14px;
+}
+.about-recent-catagories .col-md-3{
+    margin-top: 35px;
+}
+/* recent section start */
+.about-recent-catagories img{
+    height: 45px;
+    margin-top: 6px;
+    margin-right: 6px;
+    margin-bottom: 4px;
+    border-bottom: 2px green;
+
+}
+
+/*categories section area start */
+.about-recent-catagories ul{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.about-recent-catagories ul li {
+    font-size: 14px;
+    display: block;
+
+    margin-top: 15px;
+    border-bottom: 1px solid;
+}
+.about-recent-catagories ul li a{
+    
+    text-decoration: none;
+    color:white;
+}
+.about-recent-catagories ul li:last-child{
+    border: none;
+}
+/*categories section area end */
+/*----------------------------------------- footer top section end ----------------------*/
+/* footer bottom section start */
+.footer-area{
+    height: 50px;
+    background-color: #1c1c1c;
+}
+.copyright{
+    font-size: 14px;
+    padding-top: 10px;
+}
+.media h6{
+    font-size: 14px;
+    font-weight: bold;
+}
+.media p{
+    font-size: 12px;
+}
+/* footer bottom section end */
+/*---------------------------------------- About page-----------------------------*/
+.About-us{
+    
+    color: white;
+    background-color: #2ac4e2;
+}
+.About-us h1{
+    padding-top: 35px;
+    padding-bottom: 10px;
+    font-size: 36px;
+}
+.About-us p{
+    margin-bottom: 20px;
+    font-size: 21px;
+    font-weight: 300;
+}
+
+
+.container-up-section h2{
+    font-size: 60px;
+    padding-bottom: 4px;
+}
+.container-up-section p{
+    font-size: 18px;
+    font-weight: bold;
+}
+.bg-1{
+    background-color: #16A0B8;
+}
+.bg-2{
+    background-color: #18aac4;
+}
+.bg-3{
+    background-color: #19b4cf;
+}
+.bg-4{
+    background-color: #1bbeda;
+}
+
+
+
+.our-director img{
+    height: 300px;
+}
+.our-director .ts{
+    font-size: 14px;
+}
+.our-director p{
+    font-size: 21px;
+}
+.our-director h3{
+    font-size: 36px;
+}
+/* our partners section start */
+.our-partner{
+    background-color: #dddddd;
+}
+.our-partner h3{
+    font-size: 36px;
+    font-weight: bold;
+}
+.our-partner p{
+    font-size: 21px;
+}
+/* our partners section end */
+
+
+
+.whyus-ourskills h3{
+    font-size: 36px;
+}
+.whyus-ourskills p{
+    font-size: 14px;
+}
+.whyus-ourskills{
+    background-color: #f0f0f0;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+/*services.html*/
+/*our services start*/
+.our-services{
+    padding-top: 50px;
+    color: white;
+    background-color: #2ac4e2;
+}
+.our-services h1{
+    font-size: 36px;
+    font-weight: bold;
+
+}
+.our-services p{
+    font-size: 21px;
+}
+.our-services-content{
+    margin-bottom: 40px;
+}
+.our-services-content h3{
+    font-size: 24px;
+    font-weight: bold;
+}
+.our-services-content .txt{
+    font-size: 14px;
+}
+/*pricing plans start*/
+.pricing-plans{
+    padding-top: 60px;
+    padding-bottom: 40px;
+    color: black;
+    background-color: #f8f8f8;
+}
+.pricing-plans h1{
+    font-size: 36px;
+    font-weight: bold;
+}
+.pricing-plans p{
+    font-size: 21px;
+}
+/*want-more section start*/
+.want-more{
+    padding-top: 60px;
+    padding-bottom: 40px;
+    color: black;
+}
+.want-more h1{
+    font-size: 36px;
+    font-weight: bold;
+}
+.want-more p{
+    font-size: 21px;
+}
+/*....................................contact.html page start..............................*/
+.contact-us{
+    color: white;
+    background-color: #2ac4e2;
+}
+
+.contact-us h1{
+    padding-top: 35px;
+    padding-bottom: 10px;
+    font-size: 36px;
+}
+.contact-us p{
+    margin-bottom: 20px;
+    font-size: 21px;
+    font-weight: 300;
+}
+/**/
